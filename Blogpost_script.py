@@ -21,19 +21,6 @@ import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots
-import nbformat
-
-
-# In[ ]:
-
-
-
-
-
-# In[4]:
-
-
-jupyter nbconvert --to script your_notebook.ipynb
 
 
 # # 2. Data Setup
